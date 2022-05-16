@@ -1,4 +1,5 @@
 #include "Node.h"
+#include <string>
 // Node class to represent
 // a node of the linked list.
 // Default constructor
