@@ -7,7 +7,6 @@ public:
 	Node* next;
 
 	// Default constructor
-	Node();
 
 	// Parameterised Constructor
 	Node(int data);
