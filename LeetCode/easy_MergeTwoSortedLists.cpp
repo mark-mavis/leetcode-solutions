@@ -101,10 +101,24 @@ void Linkedlist::printList()
     }
 }
 
-//l1 = 1  2  3
-//l2 = 4  5  6
 
-Node* MergeTwoSortedLists(Node* l1, Node* l2) {  
+Node* MergeTwoSortedLists(){
+    Linkedlist l1;
+    Linkedlist l2;
+
+    l1.insertNode(1);
+    l1.insertNode(3);
+    l1.insertNode(5);
+
+    l2.insertNode(0);
+    l2.insertNode(2);
+    l2.insertNode(4);
+
+}
+
+Node* MergeTwoSortedListsHelper(Node* l1, Node* l2) { 
+    
+
     if (l1 == NULL) return l2;
     if (l2 == NULL) return l1;
 
@@ -117,3 +131,4 @@ Node* MergeTwoSortedLists(Node* l1, Node* l2) {
         return l2;
     }
 }
+
