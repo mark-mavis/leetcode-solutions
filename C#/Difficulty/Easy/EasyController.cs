@@ -4,8 +4,10 @@ public class EasyController{
         
         Easy.TwoSum.Run();
         Easy.IsPalindrome.Run();
-        
+        Easy.RemoveDuplicates.Run();
+        Easy.RemoveElement.Run();
         Easy.MergeSortedArray.Run();
+
     }
 
 
