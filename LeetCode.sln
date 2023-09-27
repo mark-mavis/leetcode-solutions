@@ -1,31 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32414.318
+VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{4FF063B7-DC91-4FEE-BC04-375716F227F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode", "LeetCode.csproj", "{1F912DA3-6AEF-4B66-A31B-CCD6ED18D1CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Debug|x64.ActiveCfg = Debug|x64
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Debug|x64.Build.0 = Debug|x64
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Debug|x86.ActiveCfg = Debug|Win32
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Debug|x86.Build.0 = Debug|Win32
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Release|x64.ActiveCfg = Release|x64
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Release|x64.Build.0 = Release|x64
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Release|x86.ActiveCfg = Release|Win32
-		{4FF063B7-DC91-4FEE-BC04-375716F227F3}.Release|x86.Build.0 = Release|Win32
+		{1F912DA3-6AEF-4B66-A31B-CCD6ED18D1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F912DA3-6AEF-4B66-A31B-CCD6ED18D1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F912DA3-6AEF-4B66-A31B-CCD6ED18D1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F912DA3-6AEF-4B66-A31B-CCD6ED18D1CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9EAA2F73-6F91-4ACB-94D0-CB829DD82411}
+		SolutionGuid = {4FB457F1-D7E0-433C-A805-17682C8E2190}
 	EndGlobalSection
 EndGlobal
