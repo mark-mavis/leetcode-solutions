@@ -5,6 +5,7 @@ public class EasyController{
         Easy.TwoSum.Run();
         Easy.IsPalindrome.Run();
         
+        Easy.MergeSortedArray.Run();
     }
 
 
