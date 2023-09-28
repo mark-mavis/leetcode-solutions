@@ -9,10 +9,10 @@
 public partial class Easy {
     public class IsPalindrome{
         public static void Run(){
-            Solution(121);
-            Solution(-121);
+            SolutionI(121);
+            SolutionI(-121);
         }
-        public static bool Solution(int x) {
+        public static bool SolutionI(int x) {
             string strValue = x.ToString();
 
             int start = 0;
@@ -28,9 +28,20 @@ public partial class Easy {
             }
             return true;
         }
+        public static bool SolutionII(int x){
+            string strValue = x.ToString();
+
+            int start = 0;
+            int end = strValue.Length-1;
+
+            bool isPalindromeFlag = true;
+
+            while(start <= end){
+                if(strValue[start] != strValue[end]) isPalindromeFlag = false;
+            }
+            return isPalindromeFlag;
+        }
     }
-    
-    
 }
 // @lc code=end
 
