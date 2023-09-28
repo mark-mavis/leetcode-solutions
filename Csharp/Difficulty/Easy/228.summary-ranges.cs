@@ -8,7 +8,7 @@
 public partial class Easy{  
     public class SummaryRanges{
         public static void Run(){
-            List<string> result = Solution(new int[]{0, 1, 2, 4, 5, 7});
+            IList<string> result = Solution(new int[]{0, 1, 2, 4, 5, 7});
         }
         
         //Sorted

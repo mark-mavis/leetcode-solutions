@@ -9,7 +9,7 @@ public partial class Easy{
     
     public class ContainsDuplicate1{
         public static void Run(){
-            bool result = Solution(new int[]{1, 0, 1, 1}, 1);
+            bool result = Solution(new int[]{1, 0, 1, 1});
         }
         public static bool Solution(int[] nums){
             Dictionary<int, bool> values = new Dictionary<int, bool>();
