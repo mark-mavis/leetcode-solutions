@@ -15,8 +15,8 @@ public class EasyController{
         Easy.BestTimeToBuyAndSellStock.Run();
         Easy.SingleNumber.Run();
         Easy.MajorityElement.Run();
-        Easy.ContainsDuplicateI.Run();
-        Easy.ContainsDuplicateII.Run();
+        Easy.ContainsDuplicate1.Run();
+        Easy.ContainsDuplicate2.Run();
         Easy.SummaryRanges.Run();
         Easy.MissingNumber.RuN();
         Easy.MoveZeros.Run();

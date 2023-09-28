@@ -7,7 +7,7 @@
 // @lc code=start
 public partial class Easy{  
     
-    public class ContainsDuplicateI{
+    public class ContainsDuplicate1{
         public static void Run(){
             bool result = Solution(new int[]{1, 0, 1, 1}, 1);
         }
