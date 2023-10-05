@@ -6,6 +6,8 @@
 
 // @lc code=start
 
+namespace Csharp.Difficulty.Easy;
+
 public partial class Easy {
     public class TwoSum{
         public static void Run(){

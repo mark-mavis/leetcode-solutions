@@ -39,6 +39,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0-preview-23424-02, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.2-pre.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.2-pre.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

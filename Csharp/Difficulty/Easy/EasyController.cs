@@ -34,7 +34,9 @@ public class EasyController{
         // Easy.ArrayPartition.Run();
         // Easy.ReshapeTheMatrix.Run();
         
-
+        //Easy.MergeAlternately.Run();
+        //Easy.GreatestCommonDivisorOfStrings.Run();
+        Easy.KidsWithTheGreatestNumberOfCandies.Run();
 
         Console.ReadLine();
 

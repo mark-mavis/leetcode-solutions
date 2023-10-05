@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-public partial class Easy {
+public partial class Easy{
     public class MergeAlternately{
         public static void Run(){
 
@@ -14,8 +14,28 @@ public partial class Easy {
         }
         
         public static string Solution(string word1, string word2){
+            int n1 = word1.Length;
+            int n = 0;
+            int n2 = word2.Length;
+            int m = 0;
+            char[] result = new char[word1.Length + word2.Length];
+            int count = 0;
 
-            return new string;
+            while(n < n1 || m < n2){
+                if(n < n1){
+                    result[count] = word1[n];
+                    n++;
+                    count++;
+                }
+                if( m < n2){
+                    result[count] = word2[m];
+                    m++;
+                    count++;
+                }
+            }
+
+            
+            return string.Join("", result);
         }
     }
 }
