@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u/kSmR+fjA30jVFMQSDGVb4blnaaLAmQkNx585yrx9HfhKHuWXuR8OvgNON+h67Dn0U2fTZ8N5cZfEvq5MXZVg==",
+  "dgSpecHash": "fXe50VmxJPql0ORpwLqFH5gtspzLsKqnd9cqAdHZkizj1MeAV1hbW4DzqKqYEf8yCn/Z8BfC2jQ0si/OGOcaCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\markm\\source\\repos\\LeetCode\\leetcode-solutions\\Csharp\\Csharp.csproj",
   "expectedPackageFiles": [
@@ -91,7 +91,11 @@
     "C:\\Users\\markm\\.nuget\\packages\\xunit.core\\2.5.2-pre.2\\xunit.core.2.5.2-pre.2.nupkg.sha512",
     "C:\\Users\\markm\\.nuget\\packages\\xunit.extensibility.core\\2.5.2-pre.2\\xunit.extensibility.core.2.5.2-pre.2.nupkg.sha512",
     "C:\\Users\\markm\\.nuget\\packages\\xunit.extensibility.execution\\2.5.2-pre.2\\xunit.extensibility.execution.2.5.2-pre.2.nupkg.sha512",
-    "C:\\Users\\markm\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.2-pre.3\\xunit.runner.visualstudio.2.5.2-pre.3.nupkg.sha512"
+    "C:\\Users\\markm\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.2-pre.3\\xunit.runner.visualstudio.2.5.2-pre.3.nupkg.sha512",
+    "C:\\Users\\markm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\markm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\markm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\markm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
   ],
   "logs": []
 }

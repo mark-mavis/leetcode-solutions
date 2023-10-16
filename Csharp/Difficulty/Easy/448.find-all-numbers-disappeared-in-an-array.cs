@@ -51,9 +51,6 @@ public partial class Easy{
                 }
             }
             return result;
-
-
-
         }
     }
 }

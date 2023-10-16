@@ -7,7 +7,6 @@
 // @lc code=start
 public partial class Easy {
     public class SearchInsertPosition{
-
         public static void Run(){
             Solution(new int[]{1,3,5,6}, 2);
             ImprovedSolution(new int[]{1,3,5,6}, 2);

@@ -3,6 +3,8 @@ public class MediumController{
         
         Medium.AddTwoNumbers.Run();
         Medium.LongestSubstringWithoutRepeatingCharacters.Run();
-
+        Medium.ValidSudoku.Run();
+        Medium.LongestPalindromicSubString.Run();
+        Medium.PeakIndexInMountainArray.Run();
     }
 }

@@ -6,7 +6,7 @@
 
 // @lc code=start
 public partial class Easy{  
-    public class NextGreaterElementI{
+    public class NextGreaterElement{
         public static void Run(){
             int[] result = Solution(new int[]{4, 1, 2}, new int[]{1, 3, 4, 2});
         }
@@ -26,7 +26,6 @@ public partial class Easy{
                 }else{
                     nums1[i] = -1;
                 }
-
             }
             return nums1;
         }
