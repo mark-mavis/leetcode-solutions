@@ -96,3 +96,4 @@ C:\Users\markm\source\repos\LeetCode\leetcode-solutions\Csharp\bin\Debug\net7.0\
 C:\Users\markm\source\repos\LeetCode\leetcode-solutions\Csharp\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\markm\source\repos\LeetCode\leetcode-solutions\Csharp\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\markm\source\repos\LeetCode\leetcode-solutions\Csharp\obj\Debug\net7.0\Csharp.csproj.CopyComplete
+C:\Users\markm\source\repos\LeetCode\leetcode-solutions\Csharp\obj\Debug\net7.0\Csharp.sourcelink.json

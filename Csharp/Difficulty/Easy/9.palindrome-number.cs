@@ -7,7 +7,7 @@
 // @lc code=start
 
 public partial class Easy {
-    public class IsPalindrome{
+    public class PalindromeNumber{
         public static void Run(){
             SolutionI(121);
             SolutionI(-121);

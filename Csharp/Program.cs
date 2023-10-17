@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        EasyController.Run();
-        //MediumController.Run();
+        //EasyController.Run();
+        MediumController.Run();
     }
 }
