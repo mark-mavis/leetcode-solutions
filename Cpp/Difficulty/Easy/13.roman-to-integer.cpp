@@ -1,13 +1,9 @@
-/*
- * @lc app=leetcode id=13 lang=cpp
- *
- * [13] Roman to Integer
- */
-#include String;
+#include <string>
+
 // @lc code=start
 class Solution {
 public:
-    int romanToInt(String s) {
+    int romanToInt(std::string s) {
         enum values { M = 1000, D = 500, C = 100, L = 50, X = 10, V = 5, I = 1 };
 
         int prev_val = 0;
